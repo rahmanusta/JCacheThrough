@@ -1,0 +1,16 @@
+== JSR 107 - JCache - CacheLoader and CacheWriter Sample Code
+
+Created by Rahman Usta
+
+You can read details in blog post http://kodcu.com/2014/09/jcache-cacheloader-ve-cachewriter-kullanmak/[JCache - CacheLoader ve CacheWriter Kullanmak]
+
+=== How To Run
+
+* Create a db in mysql named "mydb" and run create.sql script
+* Change db username and password in resource/META-INF/persistence.xml
+* Run App class and observe console logs
+
+=== Environment
+
+* Mysql
+* JDK 8
